@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormstagdijBefizetes", "WindowsFormstagdijBefizetes.csproj", "{656A9BFA-7076-456E-ABA7-0C075CDD0DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{656A9BFA-7076-456E-ABA7-0C075CDD0DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656A9BFA-7076-456E-ABA7-0C075CDD0DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656A9BFA-7076-456E-ABA7-0C075CDD0DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656A9BFA-7076-456E-ABA7-0C075CDD0DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B98ED2AE-7C83-4335-A92F-F0A28BB66EF1}
+	EndGlobalSection
+EndGlobal
